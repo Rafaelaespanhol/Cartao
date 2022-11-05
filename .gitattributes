@@ -1,2 +1,18 @@
-# Auto detect text files and perform LF normalization
+# caAuto detect text files and perform LF normalization
 * text=auto
+
+
+todo arquivo html deve ter o nome com .html, exemplo:
+index.html 
+
+HTML - Hyper Text Markup Language 
+HTML ---> CONTEÚDO
+<destacado>TEXTO</destacado>
+<comando></comando>
+<comando> --> <tag>
+
+
+
+
+CSS ---> ESTILO/FORMATAÇÃO
+JS --> INTERAÇÃO
